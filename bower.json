@@ -1,0 +1,18 @@
+{
+  "name": "currency-symbol-map",
+  "main": "currency-symbol-map.js",
+  "version": "2.0.2",
+  "homepage": "https://github.com/bengourley/currency-symbol-map",
+  "authors": [
+    "Ben Gourley"
+  ],
+  "description": "A function to lookup the currency symbol for a given currency code",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "currency",
+    "symbol"
+  ],
+  "license": "BSD-2-Clause"
+}
